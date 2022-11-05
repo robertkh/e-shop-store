@@ -1,0 +1,14 @@
+.Home {
+	min-height: 100vh;
+}
+
+.nav-item {
+	cursor: pointer;
+}
+
+#store-card:hover,
+#message-card:hover,
+#order-card:hover,
+#user-card:hover {
+	margin-top: -5px;
+}

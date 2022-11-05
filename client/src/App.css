@@ -1,0 +1,26 @@
+.App {
+	min-height: 100vh;
+}
+
+button:disabled {
+	cursor: not-allowed;
+	pointer-events: all !important;
+}
+
+td {
+	vertical-align: middle !important;
+}
+
+.popover {
+	min-width: 600px !important;
+}
+
+button,
+a,
+input {
+	box-shadow: none !important ;
+}
+
+.react-bootstrap-table thead {
+	background-color: rgb(225, 250, 219);
+}
